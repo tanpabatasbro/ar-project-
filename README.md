@@ -1,7 +1,7 @@
 <h1 align="center">✈️ AeroTiket – Sistem Penjualan Tiket Pesawat</h1>
 
 <p align="center">
-  <img src="assets/LogoUnsulbar 1.png" alt="Logo Universitas Sulawesi Barat" width="120"/>
+  <img src="/public/assets/LogoUnsulbar 1.png" alt="Logo Universitas Sulawesi Barat" width="120"/>
 </p> 
 
 <p align="center">
